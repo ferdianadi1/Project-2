@@ -36,9 +36,12 @@
             this.linkLabel3 = new System.Windows.Forms.LinkLabel();
             this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+<<<<<<< HEAD
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+=======
+>>>>>>> adi
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -109,6 +112,7 @@
             this.linkLabel2.TabStop = true;
             this.linkLabel2.Text = "MULTITRIB";
             this.linkLabel2.VisitedLinkColor = System.Drawing.Color.Teal;
+            this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
             // 
             // linkLabel1
             // 
@@ -126,6 +130,7 @@
             this.linkLabel1.VisitedLinkColor = System.Drawing.Color.Teal;
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked_1);
             // 
+<<<<<<< HEAD
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(38, 246);
@@ -153,6 +158,8 @@
             this.button3.Text = "button3";
             this.button3.UseVisualStyleBackColor = true;
             // 
+=======
+>>>>>>> adi
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -161,9 +168,12 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(753, 395);
+<<<<<<< HEAD
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+=======
+>>>>>>> adi
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.DoubleBuffered = true;
@@ -185,9 +195,12 @@
         private System.Windows.Forms.LinkLabel linkLabel2;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.Label label1;
+<<<<<<< HEAD
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+=======
+>>>>>>> adi
     }
 }
 

@@ -1,6 +1,6 @@
 ﻿namespace Demo_App
 {
-    partial class thb
+    partial class MenuTHB
     {
         /// <summary>
         /// Required designer variable.
@@ -28,18 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // thb
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Maroon;
-            this.ClientSize = new System.Drawing.Size(629, 322);
-            this.Name = "thb";
-            this.Text = "thb";
-            this.ResumeLayout(false);
-
+            this.Text = "MenuTHB";
         }
 
         #endregion

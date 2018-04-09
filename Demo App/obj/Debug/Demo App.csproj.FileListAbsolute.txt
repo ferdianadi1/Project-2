@@ -30,3 +30,13 @@ E:\2NAP2\Project 2 2NAP2 Q1M1\Project-Commuter-Vending-Machine\Demo App\obj\Debu
 E:\2NAP2\Project 2 2NAP2 Q1M1\Project-Commuter-Vending-Machine\Demo App\obj\Debug\Demo App.csproj.CoreCompileInputs.cache
 E:\2NAP2\Project 2 2NAP2 Q1M1\Project-Commuter-Vending-Machine\Demo App\obj\Debug\Demo App.exe
 E:\2NAP2\Project 2 2NAP2 Q1M1\Project-Commuter-Vending-Machine\Demo App\obj\Debug\Demo App.pdb
+E:\2NAP2\Project 2 new\Demo App\bin\Debug\Demo App.exe.config
+E:\2NAP2\Project 2 new\Demo App\bin\Debug\Demo App.exe
+E:\2NAP2\Project 2 new\Demo App\bin\Debug\Demo App.pdb
+E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.csprojResolveAssemblyReference.cache
+E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo_App.Form1.resources
+E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo_App.Properties.Resources.resources
+E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.csproj.GenerateResource.Cache
+E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.csproj.CoreCompileInputs.cache
+E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.exe
+E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.pdb

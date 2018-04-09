@@ -44,8 +44,18 @@ namespace Demo_App
 
         private void linkLabel1_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            thb thb = new thb();
+            MenuTHB thb = new MenuTHB();
             thb.Show();
+
+            linkLabel1.LinkVisited = true;
+            this.Hide();
+
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            MenuMultiTrip multitrip = new MenuMultiTrip();
+            multitrip.Show();
 
             linkLabel1.LinkVisited = true;
             this.Hide();

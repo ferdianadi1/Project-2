@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Demo_App
 {
-    public partial class thb : Form
+    public partial class MenuMultiTrip : Form
     {
-        public thb()
+        public MenuMultiTrip()
         {
             InitializeComponent();
         }
