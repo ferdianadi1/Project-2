@@ -57,6 +57,12 @@
     <Compile Include="MenuMultiTrip.Designer.cs">
       <DependentUpon>MenuMultiTrip.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuRefund.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuRefund.Designer.cs">
+      <DependentUpon>MenuRefund.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenuTHB.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Main Menu.resx">
       <DependentUpon>Main Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuTHB.resx">
+      <DependentUpon>MenuTHB.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
