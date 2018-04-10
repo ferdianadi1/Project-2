@@ -74,6 +74,9 @@
     <EmbeddedResource Include="Main Menu.resx">
       <DependentUpon>Main Menu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MenuRefund.resx">
+      <DependentUpon>MenuRefund.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MenuTHB.resx">
       <DependentUpon>MenuTHB.cs</DependentUpon>
     </EmbeddedResource>
