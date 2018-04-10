@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace Demo_App
 {
-    public partial class MenuTHB : Form
+    public partial class MenuRefund : Form
     {
-        public MenuTHB()
+        public MenuRefund()
         {
             InitializeComponent();
-        }
-
-        private void btn_refund_Click(object sender, EventArgs e)
-        {
-            MenuRefund refund = new MenuRefund();
-            refund.Show();
-            this.Hide();
         }
     }
 }

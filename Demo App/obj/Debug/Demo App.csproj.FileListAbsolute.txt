@@ -40,3 +40,14 @@ E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.csproj.GenerateResource.Cache
 E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.csproj.CoreCompileInputs.cache
 E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.exe
 E:\2NAP2\Project 2 new\Demo App\obj\Debug\Demo App.pdb
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\bin\Debug\Demo App.exe.config
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\bin\Debug\Demo App.exe
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\bin\Debug\Demo App.pdb
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo App.csprojResolveAssemblyReference.cache
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo_App.Form1.resources
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo_App.MenuTHB.resources
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo_App.Properties.Resources.resources
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo App.csproj.GenerateResource.Cache
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo App.csproj.CoreCompileInputs.cache
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo App.exe
+C:\Users\iskanddar_\source\repos\Project-2\Demo App\obj\Debug\Demo App.pdb

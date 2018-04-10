@@ -1,6 +1,6 @@
 ﻿namespace Demo_App
 {
-    partial class MenuTHB
+    partial class MenuRefund
     {
         /// <summary>
         /// Required designer variable.
@@ -28,33 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn_refund = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuRefund));
             this.SuspendLayout();
             // 
-            // btn_refund
-            // 
-            this.btn_refund.Location = new System.Drawing.Point(460, 30);
-            this.btn_refund.Name = "btn_refund";
-            this.btn_refund.Size = new System.Drawing.Size(75, 23);
-            this.btn_refund.TabIndex = 0;
-            this.btn_refund.Text = "refund";
-            this.btn_refund.UseVisualStyleBackColor = true;
-            this.btn_refund.Click += new System.EventHandler(this.btn_refund_Click);
-            // 
-            // MenuTHB
+            // MenuRefund
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(637, 331);
-            this.Controls.Add(this.btn_refund);
-            this.Name = "MenuTHB";
-            this.Text = "MenuTHB";
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(632, 334);
+            this.Name = "MenuRefund";
+            this.Text = "MenuRefund";
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btn_refund;
     }
 }
